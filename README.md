@@ -8,6 +8,10 @@
 ![Location](https://img.shields.io/badge/Karachi-Pakistan-22c55e?style=for-the-badge&logo=googlemaps&logoColor=white)
 ![Focus](https://img.shields.io/badge/Focus-Business%20Analytics-f59e0b?style=for-the-badge)
 
+<br>
+
+[![View My Portfolio](https://img.shields.io/badge/VIEW_MY_PORTFOLIO-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://khalil-portfolio.khalilahmes.chatgpt.site)
+
 </div>
 
 ## 👨‍💻 About me
