@@ -10,7 +10,7 @@
 
 <br>
 
-[![View My Portfolio](https://img.shields.io/badge/VIEW_MY_PORTFOLIO-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://khalil-portfolio.khalilahmes.chatgpt.site)
+[![View My Portfolio](https://img.shields.io/badge/VIEW_MY_PORTFOLIO-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.kb.2bd.net)
 
 </div>
 
